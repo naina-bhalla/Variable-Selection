@@ -36,7 +36,7 @@ Following parametric reduction, an FIC-inspired marginal screening evaluates the
 
 ---
 
-## 📈 Key Results
+## Key Results
 * **Optimal Subset:** The methodology successfully isolated 5 structurally dominant features (e.g., `perimeter_worst`, `concavity_worst`)
 * **Performance:** The parsimonious 5-variable model achieved an accuracy of **96.49%**
 * **Negative Control:** A model trained on the discarded 25 variables suffered from extreme multicollinearity and yielded a lower accuracy of 94.74%, empirically validating the methodology's ability to combat the dimensionality collapse
